@@ -1,0 +1,27 @@
+.app {
+  min-height: 100vh;
+  text-align: center;
+  padding: 20px;
+}
+
+.preview-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40vh;
+}
+
+.code-box {
+  margin-top: 20px;
+  background: #111;
+  color: #0f0;
+  padding: 10px;
+  text-align: left;
+  border-radius: 8px;
+}
+
+button.copy {
+  margin-top: 10px;
+  padding: 6px 10px;
+  cursor: pointer;
+}
